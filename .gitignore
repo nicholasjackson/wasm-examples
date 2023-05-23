@@ -1,0 +1,5 @@
+node_modules
+target
+.vscode
+ruby.wasm
+3_2-wasm32-unknown-wasi-full
